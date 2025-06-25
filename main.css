@@ -1,3 +1,108 @@
 body{
-    background-color: tomato;
+    /* background-color: tomato; */
 }
+#firstheader{
+    border: 2px solid chartreuse;
+}
+.cardholder{
+    border: 2px solid chartreuse;
+    /* height: 200px; */
+    width: 300px;
+}
+
+.daisy{
+     /* border-width: 5px; */
+    /* border-style: solid; */
+    /* border-color: red;  */
+    /* border: 5px solid red */
+
+    border: 2px solid red;
+    
+    /* border-top:5px solid red; */
+    /* border-right: 10px solid blue; */
+    /* border-bottom: 5px solid magenta; */
+    /* border-left: 5px solid greenyellow; */
+    
+    /* padding-bottom: 20px; */
+    /* padding-left: 50px; */
+    /* padding-right: 10px; */
+    /* padding-top: 20px; */
+    padding: 50px 50px 50px 50px;
+    /* margin-bottom: 42px; */
+    /* margin-left: 30px; */
+    /* margin-top: 60px; */
+    margin: 30px 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body{
+    /* background-color: tomato; */
+
+/* #firstheader{
+    border: 2px solid chartreuse;
+}
+.cardholder{
+    border: 2px solid chartreuse;
+    /* height: 200px; */
+    /* width: 300px; */
+
+
+/* .daisy{
+     border-width: 5px;
+    border-style: dashed;
+    border-color: red; 
+    /* border: 5px solid red */
+
+
+    /* Padding box model property */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
