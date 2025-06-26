@@ -1,31 +1,72 @@
+
 body{
-    /* background-color: tomato; */
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
 }
+
+ 
 #firstheader{
     border: 2px solid chartreuse;
 }
+
 .cardholder{
     border: 2px solid chartreuse;
     /* margin-left: 200px; */
     /* height: 200px; */
-    width: 300px;
-    padding: 20px;
+    width: 340px;
+    padding: 15px;
     margin: 10px 0px;
+    /* height: 210px; */
+    vertical-align: middle;
+    text-align: left;
+
     display: inline-block;
+    border-radius: 8px;
 }
 
 .firstcard{
-    border: 2px solid tomato;
-    margin-left: auto;
-    margin-right: auto;
+    /* border: 2px solid tomato; */
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+    /* border-top-right-radius: 8px; */
+    /* border-bottom-left-radius: 8px; */
 }
 
 .parentdiv{
-    /* border:2px solid purple; */
-    width: 85%;
+     /* border:2px solid purple;  */
+    width: 90%;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 40px;
+}
+
+.custom-roundedshape{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border: 2px solid chartreuse;
+    text-align: center;
+    padding: 5px;
+    display: inline-block;
+}
+
+
+.custom-icons{
+color: chartreuse;
+font-size: 24px;
+display: inline-block;
+margin-top: 3px;
+}
+
+h2{
+    display: inline-block;
+    font-size: 25px;
+}
+
+.header-containers{
+    /* border: 2px solid black; */
+    text-align: left;
 }
 
 .daisy{
@@ -93,6 +134,11 @@ body{
 
 
     /* Padding box model property */
+
+
+    /* body{ */
+  /* font-family: "Roboto", sans-serif; */
+  /* font-optical-sizing: auto; */
 
 
 
